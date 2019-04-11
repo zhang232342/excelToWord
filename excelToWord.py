@@ -3,7 +3,7 @@
 # @TIME     :2019/4/10 17:12
 # @Author   :CandyZ
 # @File     :excelToWord.py
-# 导入xlrd模块
+# 导入xlrd模块 导入mailerge模块 读取excel 以及写入word
 import xlrd
 from xlutils.copy import copy
 from mailmerge import MailMerge
